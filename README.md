@@ -5,3 +5,6 @@
 3. Sensor analog dibaca menggunakan adc MCP3008
 4. Data sensor diolah menggunakan logika fuzzy Tsukamoto untuk menentukan penyiraman
 5. Data sensor dan penyiraman dikirim ke nodeRED melalui mosquitto mqtt
+
+Skema alat
+![alt text](https://github.com/rafidinillah14/SistemPenyiramTanaman-Tsukamoto/blob/main/Skema%20Alat.png?raw=true)
